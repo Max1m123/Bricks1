@@ -10,7 +10,7 @@
 body{
     margin: 0;
     background-color: rgb(237,233,233);
-    font-family: "inter";
+    font-family: 'Inter', sans-serif;
 }
 
 .block1 ul{ 
