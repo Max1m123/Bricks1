@@ -5,10 +5,7 @@
     margin: auto;
 }
 
-@font-face {
-    font-family: "inter";
-    src: url(/fonts/static/Inter-Medium.ttf);
-}
+
 
 body{
     margin: 0;
