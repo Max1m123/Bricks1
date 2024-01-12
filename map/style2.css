@@ -67,7 +67,7 @@ a{
   height: 350px;
   width: 1280px;
   position: relative;
-  bottom: 140px;
+  bottom: 100px;
   grid-template-columns: 1fr 1fr 1fr;
   grid-template-rows: 1fr 1fr 1fr;
 }
